@@ -1,0 +1,6 @@
+.env
+*.csv
+*_pat
+TODO.md
+__pychache__
+_input
